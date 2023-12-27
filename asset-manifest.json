@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/organizer-on-week/static/css/main.c351dd46.css",
+    "main.js": "/organizer-on-week/static/js/main.537e4989.js",
+    "static/js/787.3afeba29.chunk.js": "/organizer-on-week/static/js/787.3afeba29.chunk.js",
+    "index.html": "/organizer-on-week/index.html",
+    "main.c351dd46.css.map": "/organizer-on-week/static/css/main.c351dd46.css.map",
+    "main.537e4989.js.map": "/organizer-on-week/static/js/main.537e4989.js.map",
+    "787.3afeba29.chunk.js.map": "/organizer-on-week/static/js/787.3afeba29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c351dd46.css",
+    "static/js/main.537e4989.js"
+  ]
+}
